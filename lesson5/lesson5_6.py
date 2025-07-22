@@ -4,7 +4,7 @@ from crawl4ai.extraction_strategy import JsonCssExtractionStrategy
 
 async def main():
     
-    url = 'https://sports.ltn.com.tw/news/breakingnews/5116481'
+    url = 'https://ent.ltn.com.tw/news/breakingnews/5116610'
     schema = {
         "name":"範例項目",
         "baseSelector":"[data-desc='內文']",
