@@ -16,7 +16,7 @@ async def main():
             },
             {
                 "name":"時間",
-                "selector":".time",
+                "selector":"time.time",
                 "type":"text"
             }
         ]
